@@ -1,4 +1,4 @@
-# :musical_note: Echo
+# :musical_note: Echo1
 
 Visit website at: https://www.echo-music-app.me/
 
